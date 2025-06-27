@@ -1,4 +1,4 @@
 # GitDemo
 understanding the git
 <br>
-name -yash yadav
+name : yash yadav
